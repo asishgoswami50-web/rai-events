@@ -307,7 +307,7 @@ export default function RaiEventsHome() {
       </footer>
 
       {/* WHATSAPP FLOAT BUTTON */}
-      <a href="https://wa.me/918340429618" 
+      <a href="https://wa.me/917209907013" 
          className="fixed bottom-8 right-8 bg-[#25D366] p-4 rounded-full shadow-2xl z-50 hover:scale-110 transition-transform flex items-center gap-2 font-bold text-white border-2 border-white">
         <MessageCircle size={28} />
         <span className="hidden md:block">Chat on WhatsApp</span>
